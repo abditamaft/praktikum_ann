@@ -1,0 +1,6 @@
+eksperimen,hidden_layer_sizes,aktivasi,accuracy,precision_macro,recall_macro,f1_macro,iterasi
+1,"(5,)",relu,0.9,0.9141,0.9,0.895,87
+2,"(10,)",relu,0.8333,0.8571,0.8333,0.8289,44
+3,"(20,)",relu,0.9333,0.9444,0.9333,0.9327,40
+4,"(10, 5)",relu,0.9667,0.9697,0.9667,0.9666,81
+5,"(10,)",tanh,0.9,0.9231,0.9,0.8977,75
